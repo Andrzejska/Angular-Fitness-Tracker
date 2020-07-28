@@ -11,6 +11,6 @@ In next few photos, you can see the result or go to follow the link
 **Login** 
 ![Login](img/login.png) 
 **Main** 
-![Main](img/main.png) 
+![Main](img/responsive.png) 
 **Active Training** 
-![Active Training](img/activeTraining.png)
+![Active Training](img/pastTraining.png)
