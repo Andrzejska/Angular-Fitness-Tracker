@@ -8,10 +8,10 @@
 - Keeping stable state of the application - **Ngrx** 
 - Deployed - **Firebase hosting**  
 
-In next few photos, you can see the result or go to follow the link
-**Login** 
-![Login](img/login.png) 
-**Main** 
-![Main](img/responsive.png) 
-**Active Training** 
-![Active Training](img/pastTraining.png)
+In next few photos, you can see the result or go to follow the link 
+**Login**  
+![Login](img/login.png)  
+**Main**  
+![Main](img/responsive.png)  
+**Active Training**  
+![Active Training](img/pastTraining.png)  
