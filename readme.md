@@ -1,4 +1,4 @@
-# [!Fitness tracker](https://ng-fitness-tracker-d5fd1.firebaseapp.com/training) - responsive web application created in Angular.
+# [Fitness tracker](https://ng-fitness-tracker-d5fd1.firebaseapp.com/training) - responsive web application created in Angular.
 **Include** :
 - SPA - Angular
 - Authentication - FireAuth
